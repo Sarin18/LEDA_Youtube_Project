@@ -9,3 +9,5 @@ para dentro do local onde estão os arquivos extraídos do Banco de dados do pas
 4. No compilador de sua preferência, entre no local onde estão todos os arquivos e execute o arquivo Main.java;
 5. O arquivo Main.java irá chamar todos os outros arquivos até finalizar o processo.
 
+
+Falta dar commit em alguns arquivos, hoje na parte da manhã para a tarde eles são inclusos.
