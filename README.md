@@ -8,6 +8,4 @@ Para executar o código sem possíveis erros, siga esses passos:
 para dentro do local onde estão os arquivos extraídos do Banco de dados do passo 1;
 4. No compilador de sua preferência, entre no local onde estão todos os arquivos e execute o arquivo Main.java;
 5. O arquivo Main.java irá chamar todos os outros arquivos até finalizar o processo.
-
-
-Falta dar commit em alguns arquivos, hoje na parte da manhã para a tarde eles são inclusos.
+6. Por questao de demora excessiva para o codigo terminar de rodar devido ao Banco de Dados muito grande, aconselho que para fins de avaliação, executem os 3 primeiros arquivos do Main separados com demonstrado [aqui](Arquivos/Códigos.rar)
