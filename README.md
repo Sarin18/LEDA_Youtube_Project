@@ -11,7 +11,7 @@ Para executar o código sem possíveis erros, siga esses passos:
 3. Extraia o arquivo "Códigos", acesse a pasta extraída e mova todos os arquivos **(NÃO MOVA A PASTA INTEIRA QUE CONTÉM ELES, APENAS OS ARQUIVOS DENTRO DELA)**
 para dentro do local onde estão os arquivos extraídos do Banco de dados do passo 1;
 
-4. Em caso de dúvidas ao tentar realizar os 3 primeiros passos, só acessar esse **[link](https://drive.google.com/file/d/1A5rN5nC56_mNPsMSRTBIoebBCWxG0gE3/view?usp=drive_link)** do Drive e baixar o **_.rar_** já pronto para ser executado;
+4. Em caso de dúvidas ao tentar realizar os 3 primeiros passos, só acessar esse **[link](https://drive.google.com/file/d/1A5rN5nC56_mNPsMSRTBIoebBCWxG0gE3/view?usp=drive_link)** do Drive e baixar o **_.rar_** e extrair, estando já pronto para ser executado após a extração;
 
 5. No compilador de sua preferência, entre no local onde estão todos os arquivos e execute o arquivo Main.java. O Main.java irá chamar todos os outros arquivos até finalizar o processo;
 
